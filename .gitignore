@@ -2,3 +2,4 @@
 dist/
 _bak
 node_modules/
+.grow/
