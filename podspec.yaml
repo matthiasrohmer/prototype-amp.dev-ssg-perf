@@ -1,0 +1,17 @@
+grow_version: ">=0.8.22"
+title: prototype-amp.dev-ssg-perf
+description: Test pod for performance tests.
+
+home: /content/index.md
+
+localization:
+  root_path: /
+  default_locale: en
+  locales:
+  - en
+  require_translations: false
+
+deployments:
+  default:                # Deployment name.
+    destination: local    # Destination kind.
+    out_dir: ~/dist      # Parameters for "local" destination.

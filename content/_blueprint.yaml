@@ -1,0 +1,2 @@
+path: /{base}.html
+view: /views/default.j2

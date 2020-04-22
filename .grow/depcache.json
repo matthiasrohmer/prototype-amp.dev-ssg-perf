@@ -1,0 +1,1967 @@
+{
+  "/content/components-1/amp-3d-gltf-v0.1.md": [
+    "/content/components-1/amp-3d-gltf-v0.1.md"
+  ],
+  "/content/components-1/amp-3q-player-v0.1.md": [
+    "/content/components-1/amp-3q-player-v0.1.md"
+  ],
+  "/content/components-1/amp-access-laterpay-v0.2.md": [
+    "/content/components-1/amp-access-laterpay-v0.2.md"
+  ],
+  "/content/components-1/amp-access-poool-v0.1.md": [
+    "/content/components-1/amp-access-poool-v0.1.md"
+  ],
+  "/content/components-1/amp-access-scroll-v0.1.md": [
+    "/content/components-1/amp-access-scroll-v0.1.md"
+  ],
+  "/content/components-1/amp-access-v0.1.md": [
+    "/content/components-1/amp-access-v0.1.md"
+  ],
+  "/content/components-1/amp-accordion-v0.1.md": [
+    "/content/components-1/amp-accordion-v0.1.md"
+  ],
+  "/content/components-1/amp-action-macro-v0.1.md": [
+    "/content/components-1/amp-action-macro-v0.1.md"
+  ],
+  "/content/components-1/amp-ad-custom-v0.1.md": [
+    "/content/components-1/amp-ad-custom-v0.1.md"
+  ],
+  "/content/components-1/amp-ad-exit-v0.1.md": [
+    "/content/components-1/amp-ad-exit-v0.1.md"
+  ],
+  "/content/components-1/amp-ad-v0.1.md": [
+    "/content/components-1/amp-ad-v0.1.md"
+  ],
+  "/content/components-1/amp-addthis-v0.1.md": [
+    "/content/components-1/amp-addthis-v0.1.md"
+  ],
+  "/content/components-1/amp-analytics-v0.1.md": [
+    "/content/components-1/amp-analytics-v0.1.md"
+  ],
+  "/content/components-1/amp-anim-v0.1.md": [
+    "/content/components-1/amp-anim-v0.1.md"
+  ],
+  "/content/components-1/amp-animation-v0.1.md": [
+    "/content/components-1/amp-animation-v0.1.md"
+  ],
+  "/content/components-1/amp-apester-media-v0.1.md": [
+    "/content/components-1/amp-apester-media-v0.1.md"
+  ],
+  "/content/components-1/amp-app-banner-v0.1.md": [
+    "/content/components-1/amp-app-banner-v0.1.md"
+  ],
+  "/content/components-1/amp-audio-v0.1.md": [
+    "/content/components-1/amp-audio-v0.1.md"
+  ],
+  "/content/components-1/amp-auto-ads-v0.1.md": [
+    "/content/components-1/amp-auto-ads-v0.1.md"
+  ],
+  "/content/components-1/amp-autocomplete-v0.1.md": [
+    "/content/components-1/amp-autocomplete-v0.1.md"
+  ],
+  "/content/components-1/amp-base-carousel-v0.1.md": [
+    "/content/components-1/amp-base-carousel-v0.1.md"
+  ],
+  "/content/components-1/amp-beopinion-v0.1.md": [
+    "/content/components-1/amp-beopinion-v0.1.md"
+  ],
+  "/content/components-1/amp-bind-v0.1.md": [
+    "/content/components-1/amp-bind-v0.1.md"
+  ],
+  "/content/components-1/amp-bodymovin-animation-v0.1.md": [
+    "/content/components-1/amp-bodymovin-animation-v0.1.md"
+  ],
+  "/content/components-1/amp-brid-player-v0.1.md": [
+    "/content/components-1/amp-brid-player-v0.1.md"
+  ],
+  "/content/components-1/amp-brightcove-v0.1.md": [
+    "/content/components-1/amp-brightcove-v0.1.md"
+  ],
+  "/content/components-1/amp-byside-content-v0.1.md": [
+    "/content/components-1/amp-byside-content-v0.1.md"
+  ],
+  "/content/components-1/amp-call-tracking-v0.1.md": [
+    "/content/components-1/amp-call-tracking-v0.1.md"
+  ],
+  "/content/components-1/amp-carousel-v0.1.md": [
+    "/content/components-1/amp-carousel-v0.1.md"
+  ],
+  "/content/components-1/amp-carousel-v0.2.md": [
+    "/content/components-1/amp-carousel-v0.2.md"
+  ],
+  "/content/components-1/amp-connatix-player-v0.1.md": [
+    "/content/components-1/amp-connatix-player-v0.1.md"
+  ],
+  "/content/components-1/amp-consent-v0.1.md": [
+    "/content/components-1/amp-consent-v0.1.md"
+  ],
+  "/content/components-1/amp-dailymotion-v0.1.md": [
+    "/content/components-1/amp-dailymotion-v0.1.md"
+  ],
+  "/content/components-1/amp-date-countdown-v0.1.md": [
+    "/content/components-1/amp-date-countdown-v0.1.md"
+  ],
+  "/content/components-1/amp-date-display-v0.1.md": [
+    "/content/components-1/amp-date-display-v0.1.md"
+  ],
+  "/content/components-1/amp-date-picker-v0.1.md": [
+    "/content/components-1/amp-date-picker-v0.1.md"
+  ],
+  "/content/components-1/amp-delight-player-v0.1.md": [
+    "/content/components-1/amp-delight-player-v0.1.md"
+  ],
+  "/content/components-1/amp-dynamic-css-classes-v0.1.md": [
+    "/content/components-1/amp-dynamic-css-classes-v0.1.md"
+  ],
+  "/content/components-1/amp-embedly-card-v0.1.md": [
+    "/content/components-1/amp-embedly-card-v0.1.md"
+  ],
+  "/content/components-1/amp-experiment-v1.0.md": [
+    "/content/components-1/amp-experiment-v1.0.md"
+  ],
+  "/content/components-1/amp-facebook-comments-v0.1.md": [
+    "/content/components-1/amp-facebook-comments-v0.1.md"
+  ],
+  "/content/components-1/amp-facebook-like-v0.1.md": [
+    "/content/components-1/amp-facebook-like-v0.1.md"
+  ],
+  "/content/components-1/amp-facebook-page-v0.1.md": [
+    "/content/components-1/amp-facebook-page-v0.1.md"
+  ],
+  "/content/components-1/amp-facebook-v0.1.md": [
+    "/content/components-1/amp-facebook-v0.1.md"
+  ],
+  "/content/components-1/amp-fit-text-v0.1.md": [
+    "/content/components-1/amp-fit-text-v0.1.md"
+  ],
+  "/content/components-1/amp-font-v0.1.md": [
+    "/content/components-1/amp-font-v0.1.md"
+  ],
+  "/content/components-1/amp-form-v0.1.md": [
+    "/content/components-1/amp-form-v0.1.md"
+  ],
+  "/content/components-1/amp-fx-collection-v0.1.md": [
+    "/content/components-1/amp-fx-collection-v0.1.md"
+  ],
+  "/content/components-1/amp-fx-flying-carpet-v0.1.md": [
+    "/content/components-1/amp-fx-flying-carpet-v0.1.md"
+  ],
+  "/content/components-1/amp-geo-v0.1.md": [
+    "/content/components-1/amp-geo-v0.1.md"
+  ],
+  "/content/components-1/amp-gfycat-v0.1.md": [
+    "/content/components-1/amp-gfycat-v0.1.md"
+  ],
+  "/content/components-1/amp-gist-v0.1.md": [
+    "/content/components-1/amp-gist-v0.1.md"
+  ],
+  "/content/components-1/amp-google-document-embed-v0.1.md": [
+    "/content/components-1/amp-google-document-embed-v0.1.md"
+  ],
+  "/content/components-1/amp-hulu-v0.1.md": [
+    "/content/components-1/amp-hulu-v0.1.md"
+  ],
+  "/content/components-1/amp-iframe-v0.1.md": [
+    "/content/components-1/amp-iframe-v0.1.md"
+  ],
+  "/content/components-1/amp-ima-video-v0.1.md": [
+    "/content/components-1/amp-ima-video-v0.1.md"
+  ],
+  "/content/components-1/amp-image-lightbox-v0.1.md": [
+    "/content/components-1/amp-image-lightbox-v0.1.md"
+  ],
+  "/content/components-1/amp-image-slider-v0.1.md": [
+    "/content/components-1/amp-image-slider-v0.1.md"
+  ],
+  "/content/components-1/amp-img-v0.1.md": [
+    "/content/components-1/amp-img-v0.1.md"
+  ],
+  "/content/components-1/amp-imgur-v0.1.md": [
+    "/content/components-1/amp-imgur-v0.1.md"
+  ],
+  "/content/components-1/amp-inline-gallery-v0.1.md": [
+    "/content/components-1/amp-inline-gallery-v0.1.md"
+  ],
+  "/content/components-1/amp-inputmask-v0.1.md": [
+    "/content/components-1/amp-inputmask-v0.1.md"
+  ],
+  "/content/components-1/amp-instagram-v0.1.md": [
+    "/content/components-1/amp-instagram-v0.1.md"
+  ],
+  "/content/components-1/amp-install-serviceworker-v0.1.md": [
+    "/content/components-1/amp-install-serviceworker-v0.1.md"
+  ],
+  "/content/components-1/amp-izlesene-v0.1.md": [
+    "/content/components-1/amp-izlesene-v0.1.md"
+  ],
+  "/content/components-1/amp-jwplayer-v0.1.md": [
+    "/content/components-1/amp-jwplayer-v0.1.md"
+  ],
+  "/content/components-1/amp-kaltura-player-v0.1.md": [
+    "/content/components-1/amp-kaltura-player-v0.1.md"
+  ],
+  "/content/components-1/amp-layout-v0.1.md": [
+    "/content/components-1/amp-layout-v0.1.md"
+  ],
+  "/content/components-1/amp-lightbox-gallery-v0.1.md": [
+    "/content/components-1/amp-lightbox-gallery-v0.1.md"
+  ],
+  "/content/components-1/amp-lightbox-v0.1.md": [
+    "/content/components-1/amp-lightbox-v0.1.md"
+  ],
+  "/content/components-1/amp-link-rewriter-v0.1.md": [
+    "/content/components-1/amp-link-rewriter-v0.1.md"
+  ],
+  "/content/components-1/amp-list-v0.1.md": [
+    "/content/components-1/amp-list-v0.1.md"
+  ],
+  "/content/components-1/amp-live-list-v0.1.md": [
+    "/content/components-1/amp-live-list-v0.1.md"
+  ],
+  "/content/components-1/amp-mathml-v0.1.md": [
+    "/content/components-1/amp-mathml-v0.1.md"
+  ],
+  "/content/components-1/amp-mega-menu-v0.1.md": [
+    "/content/components-1/amp-mega-menu-v0.1.md"
+  ],
+  "/content/components-1/amp-megaphone-v0.1.md": [
+    "/content/components-1/amp-megaphone-v0.1.md"
+  ],
+  "/content/components-1/amp-minute-media-player-v0.1.md": [
+    "/content/components-1/amp-minute-media-player-v0.1.md"
+  ],
+  "/content/components-1/amp-mowplayer-v0.1.md": [
+    "/content/components-1/amp-mowplayer-v0.1.md"
+  ],
+  "/content/components-1/amp-mraid-v0.1.md": [
+    "/content/components-1/amp-mraid-v0.1.md"
+  ],
+  "/content/components-1/amp-mustache-v0.2.md": [
+    "/content/components-1/amp-mustache-v0.2.md"
+  ],
+  "/content/components-1/amp-nested-menu-v0.1.md": [
+    "/content/components-1/amp-nested-menu-v0.1.md"
+  ],
+  "/content/components-1/amp-next-page-v0.1.md": [
+    "/content/components-1/amp-next-page-v0.1.md"
+  ],
+  "/content/components-1/amp-next-page-v1.0.md": [
+    "/content/components-1/amp-next-page-v1.0.md"
+  ],
+  "/content/components-1/amp-nexxtv-player-v0.1.md": [
+    "/content/components-1/amp-nexxtv-player-v0.1.md"
+  ],
+  "/content/components-1/amp-o2-player-v0.1.md": [
+    "/content/components-1/amp-o2-player-v0.1.md"
+  ],
+  "/content/components-1/amp-ooyala-player-v0.1.md": [
+    "/content/components-1/amp-ooyala-player-v0.1.md"
+  ],
+  "/content/components-1/amp-orientation-observer-v0.1.md": [
+    "/content/components-1/amp-orientation-observer-v0.1.md"
+  ],
+  "/content/components-1/amp-pan-zoom-v0.1.md": [
+    "/content/components-1/amp-pan-zoom-v0.1.md"
+  ],
+  "/content/components-1/amp-pinterest-v0.1.md": [
+    "/content/components-1/amp-pinterest-v0.1.md"
+  ],
+  "/content/components-1/amp-pixel-v0.1.md": [
+    "/content/components-1/amp-pixel-v0.1.md"
+  ],
+  "/content/components-1/amp-playbuzz-v0.1.md": [
+    "/content/components-1/amp-playbuzz-v0.1.md"
+  ],
+  "/content/components-1/amp-position-observer-v0.1.md": [
+    "/content/components-1/amp-position-observer-v0.1.md"
+  ],
+  "/content/components-1/amp-powr-player-v0.1.md": [
+    "/content/components-1/amp-powr-player-v0.1.md"
+  ],
+  "/content/components-1/amp-reach-player-v0.1.md": [
+    "/content/components-1/amp-reach-player-v0.1.md"
+  ],
+  "/content/components-1/amp-recaptcha-input-v0.1.md": [
+    "/content/components-1/amp-recaptcha-input-v0.1.md"
+  ],
+  "/content/components-1/amp-redbull-player-v0.1.md": [
+    "/content/components-1/amp-redbull-player-v0.1.md"
+  ],
+  "/content/components-1/amp-reddit-v0.1.md": [
+    "/content/components-1/amp-reddit-v0.1.md"
+  ],
+  "/content/components-1/amp-riddle-quiz-v0.1.md": [
+    "/content/components-1/amp-riddle-quiz-v0.1.md"
+  ],
+  "/content/components-1/amp-script-v0.1.md": [
+    "/content/components-1/amp-script-v0.1.md"
+  ],
+  "/content/components-1/amp-selector-v0.1.md": [
+    "/content/components-1/amp-selector-v0.1.md"
+  ],
+  "/content/components-1/amp-sidebar-v0.1.md": [
+    "/content/components-1/amp-sidebar-v0.1.md"
+  ],
+  "/content/components-1/amp-skimlinks-v0.1.md": [
+    "/content/components-1/amp-skimlinks-v0.1.md"
+  ],
+  "/content/components-1/amp-smartlinks-v0.1.md": [
+    "/content/components-1/amp-smartlinks-v0.1.md"
+  ],
+  "/content/components-1/amp-social-share-v0.1.md": [
+    "/content/components-1/amp-social-share-v0.1.md"
+  ],
+  "/content/components-1/amp-soundcloud-v0.1.md": [
+    "/content/components-1/amp-soundcloud-v0.1.md"
+  ],
+  "/content/components-1/amp-springboard-player-v0.1.md": [
+    "/content/components-1/amp-springboard-player-v0.1.md"
+  ],
+  "/content/components-1/amp-sticky-ad-v1.0.md": [
+    "/content/components-1/amp-sticky-ad-v1.0.md"
+  ],
+  "/content/components-1/amp-story-auto-ads-v0.1.md": [
+    "/content/components-1/amp-story-auto-ads-v0.1.md"
+  ],
+  "/content/components-1/amp-story-bookend-v1.0.md": [
+    "/content/components-1/amp-story-bookend-v1.0.md"
+  ],
+  "/content/components-1/amp-story-cta-layer-v1.0.md": [
+    "/content/components-1/amp-story-cta-layer-v1.0.md"
+  ],
+  "/content/components-1/amp-story-grid-layer-v1.0.md": [
+    "/content/components-1/amp-story-grid-layer-v1.0.md"
+  ],
+  "/content/components-1/amp-story-page-attachment-v1.0.md": [
+    "/content/components-1/amp-story-page-attachment-v1.0.md"
+  ],
+  "/content/components-1/amp-story-page-v1.0.md": [
+    "/content/components-1/amp-story-page-v1.0.md"
+  ],
+  "/content/components-1/amp-story-v1.0.md": [
+    "/content/components-1/amp-story-v1.0.md"
+  ],
+  "/content/components-1/amp-subscriptions-google-v0.1.md": [
+    "/content/components-1/amp-subscriptions-google-v0.1.md"
+  ],
+  "/content/components-1/amp-subscriptions-v0.1.md": [
+    "/content/components-1/amp-subscriptions-v0.1.md"
+  ],
+  "/content/components-1/amp-timeago-v0.1.md": [
+    "/content/components-1/amp-timeago-v0.1.md"
+  ],
+  "/content/components-1/amp-truncate-text-v0.1.md": [
+    "/content/components-1/amp-truncate-text-v0.1.md"
+  ],
+  "/content/components-1/amp-twitter-v0.1.md": [
+    "/content/components-1/amp-twitter-v0.1.md"
+  ],
+  "/content/components-1/amp-user-notification-v0.1.md": [
+    "/content/components-1/amp-user-notification-v0.1.md"
+  ],
+  "/content/components-1/amp-video-docking-v0.1.md": [
+    "/content/components-1/amp-video-docking-v0.1.md"
+  ],
+  "/content/components-1/amp-video-iframe-v0.1.md": [
+    "/content/components-1/amp-video-iframe-v0.1.md"
+  ],
+  "/content/components-1/amp-video-v0.1.md": [
+    "/content/components-1/amp-video-v0.1.md"
+  ],
+  "/content/components-1/amp-vimeo-v0.1.md": [
+    "/content/components-1/amp-vimeo-v0.1.md"
+  ],
+  "/content/components-1/amp-vine-v0.1.md": [
+    "/content/components-1/amp-vine-v0.1.md"
+  ],
+  "/content/components-1/amp-viqeo-player-v0.1.md": [
+    "/content/components-1/amp-viqeo-player-v0.1.md"
+  ],
+  "/content/components-1/amp-vk-v0.1.md": [
+    "/content/components-1/amp-vk-v0.1.md"
+  ],
+  "/content/components-1/amp-web-push-v0.1.md": [
+    "/content/components-1/amp-web-push-v0.1.md"
+  ],
+  "/content/components-1/amp-wistia-player-v0.1.md": [
+    "/content/components-1/amp-wistia-player-v0.1.md"
+  ],
+  "/content/components-1/amp-yotpo-v0.1.md": [
+    "/content/components-1/amp-yotpo-v0.1.md"
+  ],
+  "/content/components-1/amp-youtube-v0.1.md": [
+    "/content/components-1/amp-youtube-v0.1.md"
+  ],
+  "/content/components-2/amp-3d-gltf-v0.1.md": [
+    "/content/components-2/amp-3d-gltf-v0.1.md"
+  ],
+  "/content/components-2/amp-3q-player-v0.1.md": [
+    "/content/components-2/amp-3q-player-v0.1.md"
+  ],
+  "/content/components-2/amp-access-laterpay-v0.2.md": [
+    "/content/components-2/amp-access-laterpay-v0.2.md"
+  ],
+  "/content/components-2/amp-access-poool-v0.1.md": [
+    "/content/components-2/amp-access-poool-v0.1.md"
+  ],
+  "/content/components-2/amp-access-scroll-v0.1.md": [
+    "/content/components-2/amp-access-scroll-v0.1.md"
+  ],
+  "/content/components-2/amp-access-v0.1.md": [
+    "/content/components-2/amp-access-v0.1.md"
+  ],
+  "/content/components-2/amp-accordion-v0.1.md": [
+    "/content/components-2/amp-accordion-v0.1.md"
+  ],
+  "/content/components-2/amp-action-macro-v0.1.md": [
+    "/content/components-2/amp-action-macro-v0.1.md"
+  ],
+  "/content/components-2/amp-ad-custom-v0.1.md": [
+    "/content/components-2/amp-ad-custom-v0.1.md"
+  ],
+  "/content/components-2/amp-ad-exit-v0.1.md": [
+    "/content/components-2/amp-ad-exit-v0.1.md"
+  ],
+  "/content/components-2/amp-ad-v0.1.md": [
+    "/content/components-2/amp-ad-v0.1.md"
+  ],
+  "/content/components-2/amp-addthis-v0.1.md": [
+    "/content/components-2/amp-addthis-v0.1.md"
+  ],
+  "/content/components-2/amp-analytics-v0.1.md": [
+    "/content/components-2/amp-analytics-v0.1.md"
+  ],
+  "/content/components-2/amp-anim-v0.1.md": [
+    "/content/components-2/amp-anim-v0.1.md"
+  ],
+  "/content/components-2/amp-animation-v0.1.md": [
+    "/content/components-2/amp-animation-v0.1.md"
+  ],
+  "/content/components-2/amp-apester-media-v0.1.md": [
+    "/content/components-2/amp-apester-media-v0.1.md"
+  ],
+  "/content/components-2/amp-app-banner-v0.1.md": [
+    "/content/components-2/amp-app-banner-v0.1.md"
+  ],
+  "/content/components-2/amp-audio-v0.1.md": [
+    "/content/components-2/amp-audio-v0.1.md"
+  ],
+  "/content/components-2/amp-auto-ads-v0.1.md": [
+    "/content/components-2/amp-auto-ads-v0.1.md"
+  ],
+  "/content/components-2/amp-autocomplete-v0.1.md": [
+    "/content/components-2/amp-autocomplete-v0.1.md"
+  ],
+  "/content/components-2/amp-base-carousel-v0.1.md": [
+    "/content/components-2/amp-base-carousel-v0.1.md"
+  ],
+  "/content/components-2/amp-beopinion-v0.1.md": [
+    "/content/components-2/amp-beopinion-v0.1.md"
+  ],
+  "/content/components-2/amp-bind-v0.1.md": [
+    "/content/components-2/amp-bind-v0.1.md"
+  ],
+  "/content/components-2/amp-bodymovin-animation-v0.1.md": [
+    "/content/components-2/amp-bodymovin-animation-v0.1.md"
+  ],
+  "/content/components-2/amp-brid-player-v0.1.md": [
+    "/content/components-2/amp-brid-player-v0.1.md"
+  ],
+  "/content/components-2/amp-brightcove-v0.1.md": [
+    "/content/components-2/amp-brightcove-v0.1.md"
+  ],
+  "/content/components-2/amp-byside-content-v0.1.md": [
+    "/content/components-2/amp-byside-content-v0.1.md"
+  ],
+  "/content/components-2/amp-call-tracking-v0.1.md": [
+    "/content/components-2/amp-call-tracking-v0.1.md"
+  ],
+  "/content/components-2/amp-carousel-v0.1.md": [
+    "/content/components-2/amp-carousel-v0.1.md"
+  ],
+  "/content/components-2/amp-carousel-v0.2.md": [
+    "/content/components-2/amp-carousel-v0.2.md"
+  ],
+  "/content/components-2/amp-connatix-player-v0.1.md": [
+    "/content/components-2/amp-connatix-player-v0.1.md"
+  ],
+  "/content/components-2/amp-consent-v0.1.md": [
+    "/content/components-2/amp-consent-v0.1.md"
+  ],
+  "/content/components-2/amp-dailymotion-v0.1.md": [
+    "/content/components-2/amp-dailymotion-v0.1.md"
+  ],
+  "/content/components-2/amp-date-countdown-v0.1.md": [
+    "/content/components-2/amp-date-countdown-v0.1.md"
+  ],
+  "/content/components-2/amp-date-display-v0.1.md": [
+    "/content/components-2/amp-date-display-v0.1.md"
+  ],
+  "/content/components-2/amp-date-picker-v0.1.md": [
+    "/content/components-2/amp-date-picker-v0.1.md"
+  ],
+  "/content/components-2/amp-delight-player-v0.1.md": [
+    "/content/components-2/amp-delight-player-v0.1.md"
+  ],
+  "/content/components-2/amp-dynamic-css-classes-v0.1.md": [
+    "/content/components-2/amp-dynamic-css-classes-v0.1.md"
+  ],
+  "/content/components-2/amp-embedly-card-v0.1.md": [
+    "/content/components-2/amp-embedly-card-v0.1.md"
+  ],
+  "/content/components-2/amp-experiment-v1.0.md": [
+    "/content/components-2/amp-experiment-v1.0.md"
+  ],
+  "/content/components-2/amp-facebook-comments-v0.1.md": [
+    "/content/components-2/amp-facebook-comments-v0.1.md"
+  ],
+  "/content/components-2/amp-facebook-like-v0.1.md": [
+    "/content/components-2/amp-facebook-like-v0.1.md"
+  ],
+  "/content/components-2/amp-facebook-page-v0.1.md": [
+    "/content/components-2/amp-facebook-page-v0.1.md"
+  ],
+  "/content/components-2/amp-facebook-v0.1.md": [
+    "/content/components-2/amp-facebook-v0.1.md"
+  ],
+  "/content/components-2/amp-fit-text-v0.1.md": [
+    "/content/components-2/amp-fit-text-v0.1.md"
+  ],
+  "/content/components-2/amp-font-v0.1.md": [
+    "/content/components-2/amp-font-v0.1.md"
+  ],
+  "/content/components-2/amp-form-v0.1.md": [
+    "/content/components-2/amp-form-v0.1.md"
+  ],
+  "/content/components-2/amp-fx-collection-v0.1.md": [
+    "/content/components-2/amp-fx-collection-v0.1.md"
+  ],
+  "/content/components-2/amp-fx-flying-carpet-v0.1.md": [
+    "/content/components-2/amp-fx-flying-carpet-v0.1.md"
+  ],
+  "/content/components-2/amp-geo-v0.1.md": [
+    "/content/components-2/amp-geo-v0.1.md"
+  ],
+  "/content/components-2/amp-gfycat-v0.1.md": [
+    "/content/components-2/amp-gfycat-v0.1.md"
+  ],
+  "/content/components-2/amp-gist-v0.1.md": [
+    "/content/components-2/amp-gist-v0.1.md"
+  ],
+  "/content/components-2/amp-google-document-embed-v0.1.md": [
+    "/content/components-2/amp-google-document-embed-v0.1.md"
+  ],
+  "/content/components-2/amp-hulu-v0.1.md": [
+    "/content/components-2/amp-hulu-v0.1.md"
+  ],
+  "/content/components-2/amp-iframe-v0.1.md": [
+    "/content/components-2/amp-iframe-v0.1.md"
+  ],
+  "/content/components-2/amp-ima-video-v0.1.md": [
+    "/content/components-2/amp-ima-video-v0.1.md"
+  ],
+  "/content/components-2/amp-image-lightbox-v0.1.md": [
+    "/content/components-2/amp-image-lightbox-v0.1.md"
+  ],
+  "/content/components-2/amp-image-slider-v0.1.md": [
+    "/content/components-2/amp-image-slider-v0.1.md"
+  ],
+  "/content/components-2/amp-img-v0.1.md": [
+    "/content/components-2/amp-img-v0.1.md"
+  ],
+  "/content/components-2/amp-imgur-v0.1.md": [
+    "/content/components-2/amp-imgur-v0.1.md"
+  ],
+  "/content/components-2/amp-inline-gallery-v0.1.md": [
+    "/content/components-2/amp-inline-gallery-v0.1.md"
+  ],
+  "/content/components-2/amp-inputmask-v0.1.md": [
+    "/content/components-2/amp-inputmask-v0.1.md"
+  ],
+  "/content/components-2/amp-instagram-v0.1.md": [
+    "/content/components-2/amp-instagram-v0.1.md"
+  ],
+  "/content/components-2/amp-install-serviceworker-v0.1.md": [
+    "/content/components-2/amp-install-serviceworker-v0.1.md"
+  ],
+  "/content/components-2/amp-izlesene-v0.1.md": [
+    "/content/components-2/amp-izlesene-v0.1.md"
+  ],
+  "/content/components-2/amp-jwplayer-v0.1.md": [
+    "/content/components-2/amp-jwplayer-v0.1.md"
+  ],
+  "/content/components-2/amp-kaltura-player-v0.1.md": [
+    "/content/components-2/amp-kaltura-player-v0.1.md"
+  ],
+  "/content/components-2/amp-layout-v0.1.md": [
+    "/content/components-2/amp-layout-v0.1.md"
+  ],
+  "/content/components-2/amp-lightbox-gallery-v0.1.md": [
+    "/content/components-2/amp-lightbox-gallery-v0.1.md"
+  ],
+  "/content/components-2/amp-lightbox-v0.1.md": [
+    "/content/components-2/amp-lightbox-v0.1.md"
+  ],
+  "/content/components-2/amp-link-rewriter-v0.1.md": [
+    "/content/components-2/amp-link-rewriter-v0.1.md"
+  ],
+  "/content/components-2/amp-list-v0.1.md": [
+    "/content/components-2/amp-list-v0.1.md"
+  ],
+  "/content/components-2/amp-live-list-v0.1.md": [
+    "/content/components-2/amp-live-list-v0.1.md"
+  ],
+  "/content/components-2/amp-mathml-v0.1.md": [
+    "/content/components-2/amp-mathml-v0.1.md"
+  ],
+  "/content/components-2/amp-mega-menu-v0.1.md": [
+    "/content/components-2/amp-mega-menu-v0.1.md"
+  ],
+  "/content/components-2/amp-megaphone-v0.1.md": [
+    "/content/components-2/amp-megaphone-v0.1.md"
+  ],
+  "/content/components-2/amp-minute-media-player-v0.1.md": [
+    "/content/components-2/amp-minute-media-player-v0.1.md"
+  ],
+  "/content/components-2/amp-mowplayer-v0.1.md": [
+    "/content/components-2/amp-mowplayer-v0.1.md"
+  ],
+  "/content/components-2/amp-mraid-v0.1.md": [
+    "/content/components-2/amp-mraid-v0.1.md"
+  ],
+  "/content/components-2/amp-mustache-v0.2.md": [
+    "/content/components-2/amp-mustache-v0.2.md"
+  ],
+  "/content/components-2/amp-nested-menu-v0.1.md": [
+    "/content/components-2/amp-nested-menu-v0.1.md"
+  ],
+  "/content/components-2/amp-next-page-v0.1.md": [
+    "/content/components-2/amp-next-page-v0.1.md"
+  ],
+  "/content/components-2/amp-next-page-v1.0.md": [
+    "/content/components-2/amp-next-page-v1.0.md"
+  ],
+  "/content/components-2/amp-nexxtv-player-v0.1.md": [
+    "/content/components-2/amp-nexxtv-player-v0.1.md"
+  ],
+  "/content/components-2/amp-o2-player-v0.1.md": [
+    "/content/components-2/amp-o2-player-v0.1.md"
+  ],
+  "/content/components-2/amp-ooyala-player-v0.1.md": [
+    "/content/components-2/amp-ooyala-player-v0.1.md"
+  ],
+  "/content/components-2/amp-orientation-observer-v0.1.md": [
+    "/content/components-2/amp-orientation-observer-v0.1.md"
+  ],
+  "/content/components-2/amp-pan-zoom-v0.1.md": [
+    "/content/components-2/amp-pan-zoom-v0.1.md"
+  ],
+  "/content/components-2/amp-pinterest-v0.1.md": [
+    "/content/components-2/amp-pinterest-v0.1.md"
+  ],
+  "/content/components-2/amp-pixel-v0.1.md": [
+    "/content/components-2/amp-pixel-v0.1.md"
+  ],
+  "/content/components-2/amp-playbuzz-v0.1.md": [
+    "/content/components-2/amp-playbuzz-v0.1.md"
+  ],
+  "/content/components-2/amp-position-observer-v0.1.md": [
+    "/content/components-2/amp-position-observer-v0.1.md"
+  ],
+  "/content/components-2/amp-powr-player-v0.1.md": [
+    "/content/components-2/amp-powr-player-v0.1.md"
+  ],
+  "/content/components-2/amp-reach-player-v0.1.md": [
+    "/content/components-2/amp-reach-player-v0.1.md"
+  ],
+  "/content/components-2/amp-recaptcha-input-v0.1.md": [
+    "/content/components-2/amp-recaptcha-input-v0.1.md"
+  ],
+  "/content/components-2/amp-redbull-player-v0.1.md": [
+    "/content/components-2/amp-redbull-player-v0.1.md"
+  ],
+  "/content/components-2/amp-reddit-v0.1.md": [
+    "/content/components-2/amp-reddit-v0.1.md"
+  ],
+  "/content/components-2/amp-riddle-quiz-v0.1.md": [
+    "/content/components-2/amp-riddle-quiz-v0.1.md"
+  ],
+  "/content/components-2/amp-script-v0.1.md": [
+    "/content/components-2/amp-script-v0.1.md"
+  ],
+  "/content/components-2/amp-selector-v0.1.md": [
+    "/content/components-2/amp-selector-v0.1.md"
+  ],
+  "/content/components-2/amp-sidebar-v0.1.md": [
+    "/content/components-2/amp-sidebar-v0.1.md"
+  ],
+  "/content/components-2/amp-skimlinks-v0.1.md": [
+    "/content/components-2/amp-skimlinks-v0.1.md"
+  ],
+  "/content/components-2/amp-smartlinks-v0.1.md": [
+    "/content/components-2/amp-smartlinks-v0.1.md"
+  ],
+  "/content/components-2/amp-social-share-v0.1.md": [
+    "/content/components-2/amp-social-share-v0.1.md"
+  ],
+  "/content/components-2/amp-soundcloud-v0.1.md": [
+    "/content/components-2/amp-soundcloud-v0.1.md"
+  ],
+  "/content/components-2/amp-springboard-player-v0.1.md": [
+    "/content/components-2/amp-springboard-player-v0.1.md"
+  ],
+  "/content/components-2/amp-sticky-ad-v1.0.md": [
+    "/content/components-2/amp-sticky-ad-v1.0.md"
+  ],
+  "/content/components-2/amp-story-auto-ads-v0.1.md": [
+    "/content/components-2/amp-story-auto-ads-v0.1.md"
+  ],
+  "/content/components-2/amp-story-bookend-v1.0.md": [
+    "/content/components-2/amp-story-bookend-v1.0.md"
+  ],
+  "/content/components-2/amp-story-cta-layer-v1.0.md": [
+    "/content/components-2/amp-story-cta-layer-v1.0.md"
+  ],
+  "/content/components-2/amp-story-grid-layer-v1.0.md": [
+    "/content/components-2/amp-story-grid-layer-v1.0.md"
+  ],
+  "/content/components-2/amp-story-page-attachment-v1.0.md": [
+    "/content/components-2/amp-story-page-attachment-v1.0.md"
+  ],
+  "/content/components-2/amp-story-page-v1.0.md": [
+    "/content/components-2/amp-story-page-v1.0.md"
+  ],
+  "/content/components-2/amp-story-v1.0.md": [
+    "/content/components-2/amp-story-v1.0.md"
+  ],
+  "/content/components-2/amp-subscriptions-google-v0.1.md": [
+    "/content/components-2/amp-subscriptions-google-v0.1.md"
+  ],
+  "/content/components-2/amp-subscriptions-v0.1.md": [
+    "/content/components-2/amp-subscriptions-v0.1.md"
+  ],
+  "/content/components-2/amp-timeago-v0.1.md": [
+    "/content/components-2/amp-timeago-v0.1.md"
+  ],
+  "/content/components-2/amp-truncate-text-v0.1.md": [
+    "/content/components-2/amp-truncate-text-v0.1.md"
+  ],
+  "/content/components-2/amp-twitter-v0.1.md": [
+    "/content/components-2/amp-twitter-v0.1.md"
+  ],
+  "/content/components-2/amp-user-notification-v0.1.md": [
+    "/content/components-2/amp-user-notification-v0.1.md"
+  ],
+  "/content/components-2/amp-video-docking-v0.1.md": [
+    "/content/components-2/amp-video-docking-v0.1.md"
+  ],
+  "/content/components-2/amp-video-iframe-v0.1.md": [
+    "/content/components-2/amp-video-iframe-v0.1.md"
+  ],
+  "/content/components-2/amp-video-v0.1.md": [
+    "/content/components-2/amp-video-v0.1.md"
+  ],
+  "/content/components-2/amp-vimeo-v0.1.md": [
+    "/content/components-2/amp-vimeo-v0.1.md"
+  ],
+  "/content/components-2/amp-vine-v0.1.md": [
+    "/content/components-2/amp-vine-v0.1.md"
+  ],
+  "/content/components-2/amp-viqeo-player-v0.1.md": [
+    "/content/components-2/amp-viqeo-player-v0.1.md"
+  ],
+  "/content/components-2/amp-vk-v0.1.md": [
+    "/content/components-2/amp-vk-v0.1.md"
+  ],
+  "/content/components-2/amp-web-push-v0.1.md": [
+    "/content/components-2/amp-web-push-v0.1.md"
+  ],
+  "/content/components-2/amp-wistia-player-v0.1.md": [
+    "/content/components-2/amp-wistia-player-v0.1.md"
+  ],
+  "/content/components-2/amp-yotpo-v0.1.md": [
+    "/content/components-2/amp-yotpo-v0.1.md"
+  ],
+  "/content/components-2/amp-youtube-v0.1.md": [
+    "/content/components-2/amp-youtube-v0.1.md"
+  ],
+  "/content/components-3/amp-3d-gltf-v0.1.md": [
+    "/content/components-3/amp-3d-gltf-v0.1.md"
+  ],
+  "/content/components-3/amp-3q-player-v0.1.md": [
+    "/content/components-3/amp-3q-player-v0.1.md"
+  ],
+  "/content/components-3/amp-access-laterpay-v0.2.md": [
+    "/content/components-3/amp-access-laterpay-v0.2.md"
+  ],
+  "/content/components-3/amp-access-poool-v0.1.md": [
+    "/content/components-3/amp-access-poool-v0.1.md"
+  ],
+  "/content/components-3/amp-access-scroll-v0.1.md": [
+    "/content/components-3/amp-access-scroll-v0.1.md"
+  ],
+  "/content/components-3/amp-access-v0.1.md": [
+    "/content/components-3/amp-access-v0.1.md"
+  ],
+  "/content/components-3/amp-accordion-v0.1.md": [
+    "/content/components-3/amp-accordion-v0.1.md"
+  ],
+  "/content/components-3/amp-action-macro-v0.1.md": [
+    "/content/components-3/amp-action-macro-v0.1.md"
+  ],
+  "/content/components-3/amp-ad-custom-v0.1.md": [
+    "/content/components-3/amp-ad-custom-v0.1.md"
+  ],
+  "/content/components-3/amp-ad-exit-v0.1.md": [
+    "/content/components-3/amp-ad-exit-v0.1.md"
+  ],
+  "/content/components-3/amp-ad-v0.1.md": [
+    "/content/components-3/amp-ad-v0.1.md"
+  ],
+  "/content/components-3/amp-addthis-v0.1.md": [
+    "/content/components-3/amp-addthis-v0.1.md"
+  ],
+  "/content/components-3/amp-analytics-v0.1.md": [
+    "/content/components-3/amp-analytics-v0.1.md"
+  ],
+  "/content/components-3/amp-anim-v0.1.md": [
+    "/content/components-3/amp-anim-v0.1.md"
+  ],
+  "/content/components-3/amp-animation-v0.1.md": [
+    "/content/components-3/amp-animation-v0.1.md"
+  ],
+  "/content/components-3/amp-apester-media-v0.1.md": [
+    "/content/components-3/amp-apester-media-v0.1.md"
+  ],
+  "/content/components-3/amp-app-banner-v0.1.md": [
+    "/content/components-3/amp-app-banner-v0.1.md"
+  ],
+  "/content/components-3/amp-audio-v0.1.md": [
+    "/content/components-3/amp-audio-v0.1.md"
+  ],
+  "/content/components-3/amp-auto-ads-v0.1.md": [
+    "/content/components-3/amp-auto-ads-v0.1.md"
+  ],
+  "/content/components-3/amp-autocomplete-v0.1.md": [
+    "/content/components-3/amp-autocomplete-v0.1.md"
+  ],
+  "/content/components-3/amp-base-carousel-v0.1.md": [
+    "/content/components-3/amp-base-carousel-v0.1.md"
+  ],
+  "/content/components-3/amp-beopinion-v0.1.md": [
+    "/content/components-3/amp-beopinion-v0.1.md"
+  ],
+  "/content/components-3/amp-bind-v0.1.md": [
+    "/content/components-3/amp-bind-v0.1.md"
+  ],
+  "/content/components-3/amp-bodymovin-animation-v0.1.md": [
+    "/content/components-3/amp-bodymovin-animation-v0.1.md"
+  ],
+  "/content/components-3/amp-brid-player-v0.1.md": [
+    "/content/components-3/amp-brid-player-v0.1.md"
+  ],
+  "/content/components-3/amp-brightcove-v0.1.md": [
+    "/content/components-3/amp-brightcove-v0.1.md"
+  ],
+  "/content/components-3/amp-byside-content-v0.1.md": [
+    "/content/components-3/amp-byside-content-v0.1.md"
+  ],
+  "/content/components-3/amp-call-tracking-v0.1.md": [
+    "/content/components-3/amp-call-tracking-v0.1.md"
+  ],
+  "/content/components-3/amp-carousel-v0.1.md": [
+    "/content/components-3/amp-carousel-v0.1.md"
+  ],
+  "/content/components-3/amp-carousel-v0.2.md": [
+    "/content/components-3/amp-carousel-v0.2.md"
+  ],
+  "/content/components-3/amp-connatix-player-v0.1.md": [
+    "/content/components-3/amp-connatix-player-v0.1.md"
+  ],
+  "/content/components-3/amp-consent-v0.1.md": [
+    "/content/components-3/amp-consent-v0.1.md"
+  ],
+  "/content/components-3/amp-dailymotion-v0.1.md": [
+    "/content/components-3/amp-dailymotion-v0.1.md"
+  ],
+  "/content/components-3/amp-date-countdown-v0.1.md": [
+    "/content/components-3/amp-date-countdown-v0.1.md"
+  ],
+  "/content/components-3/amp-date-display-v0.1.md": [
+    "/content/components-3/amp-date-display-v0.1.md"
+  ],
+  "/content/components-3/amp-date-picker-v0.1.md": [
+    "/content/components-3/amp-date-picker-v0.1.md"
+  ],
+  "/content/components-3/amp-delight-player-v0.1.md": [
+    "/content/components-3/amp-delight-player-v0.1.md"
+  ],
+  "/content/components-3/amp-dynamic-css-classes-v0.1.md": [
+    "/content/components-3/amp-dynamic-css-classes-v0.1.md"
+  ],
+  "/content/components-3/amp-embedly-card-v0.1.md": [
+    "/content/components-3/amp-embedly-card-v0.1.md"
+  ],
+  "/content/components-3/amp-experiment-v1.0.md": [
+    "/content/components-3/amp-experiment-v1.0.md"
+  ],
+  "/content/components-3/amp-facebook-comments-v0.1.md": [
+    "/content/components-3/amp-facebook-comments-v0.1.md"
+  ],
+  "/content/components-3/amp-facebook-like-v0.1.md": [
+    "/content/components-3/amp-facebook-like-v0.1.md"
+  ],
+  "/content/components-3/amp-facebook-page-v0.1.md": [
+    "/content/components-3/amp-facebook-page-v0.1.md"
+  ],
+  "/content/components-3/amp-facebook-v0.1.md": [
+    "/content/components-3/amp-facebook-v0.1.md"
+  ],
+  "/content/components-3/amp-fit-text-v0.1.md": [
+    "/content/components-3/amp-fit-text-v0.1.md"
+  ],
+  "/content/components-3/amp-font-v0.1.md": [
+    "/content/components-3/amp-font-v0.1.md"
+  ],
+  "/content/components-3/amp-form-v0.1.md": [
+    "/content/components-3/amp-form-v0.1.md"
+  ],
+  "/content/components-3/amp-fx-collection-v0.1.md": [
+    "/content/components-3/amp-fx-collection-v0.1.md"
+  ],
+  "/content/components-3/amp-fx-flying-carpet-v0.1.md": [
+    "/content/components-3/amp-fx-flying-carpet-v0.1.md"
+  ],
+  "/content/components-3/amp-geo-v0.1.md": [
+    "/content/components-3/amp-geo-v0.1.md"
+  ],
+  "/content/components-3/amp-gfycat-v0.1.md": [
+    "/content/components-3/amp-gfycat-v0.1.md"
+  ],
+  "/content/components-3/amp-gist-v0.1.md": [
+    "/content/components-3/amp-gist-v0.1.md"
+  ],
+  "/content/components-3/amp-google-document-embed-v0.1.md": [
+    "/content/components-3/amp-google-document-embed-v0.1.md"
+  ],
+  "/content/components-3/amp-hulu-v0.1.md": [
+    "/content/components-3/amp-hulu-v0.1.md"
+  ],
+  "/content/components-3/amp-iframe-v0.1.md": [
+    "/content/components-3/amp-iframe-v0.1.md"
+  ],
+  "/content/components-3/amp-ima-video-v0.1.md": [
+    "/content/components-3/amp-ima-video-v0.1.md"
+  ],
+  "/content/components-3/amp-image-lightbox-v0.1.md": [
+    "/content/components-3/amp-image-lightbox-v0.1.md"
+  ],
+  "/content/components-3/amp-image-slider-v0.1.md": [
+    "/content/components-3/amp-image-slider-v0.1.md"
+  ],
+  "/content/components-3/amp-img-v0.1.md": [
+    "/content/components-3/amp-img-v0.1.md"
+  ],
+  "/content/components-3/amp-imgur-v0.1.md": [
+    "/content/components-3/amp-imgur-v0.1.md"
+  ],
+  "/content/components-3/amp-inline-gallery-v0.1.md": [
+    "/content/components-3/amp-inline-gallery-v0.1.md"
+  ],
+  "/content/components-3/amp-inputmask-v0.1.md": [
+    "/content/components-3/amp-inputmask-v0.1.md"
+  ],
+  "/content/components-3/amp-instagram-v0.1.md": [
+    "/content/components-3/amp-instagram-v0.1.md"
+  ],
+  "/content/components-3/amp-install-serviceworker-v0.1.md": [
+    "/content/components-3/amp-install-serviceworker-v0.1.md"
+  ],
+  "/content/components-3/amp-izlesene-v0.1.md": [
+    "/content/components-3/amp-izlesene-v0.1.md"
+  ],
+  "/content/components-3/amp-jwplayer-v0.1.md": [
+    "/content/components-3/amp-jwplayer-v0.1.md"
+  ],
+  "/content/components-3/amp-kaltura-player-v0.1.md": [
+    "/content/components-3/amp-kaltura-player-v0.1.md"
+  ],
+  "/content/components-3/amp-layout-v0.1.md": [
+    "/content/components-3/amp-layout-v0.1.md"
+  ],
+  "/content/components-3/amp-lightbox-gallery-v0.1.md": [
+    "/content/components-3/amp-lightbox-gallery-v0.1.md"
+  ],
+  "/content/components-3/amp-lightbox-v0.1.md": [
+    "/content/components-3/amp-lightbox-v0.1.md"
+  ],
+  "/content/components-3/amp-link-rewriter-v0.1.md": [
+    "/content/components-3/amp-link-rewriter-v0.1.md"
+  ],
+  "/content/components-3/amp-list-v0.1.md": [
+    "/content/components-3/amp-list-v0.1.md"
+  ],
+  "/content/components-3/amp-live-list-v0.1.md": [
+    "/content/components-3/amp-live-list-v0.1.md"
+  ],
+  "/content/components-3/amp-mathml-v0.1.md": [
+    "/content/components-3/amp-mathml-v0.1.md"
+  ],
+  "/content/components-3/amp-mega-menu-v0.1.md": [
+    "/content/components-3/amp-mega-menu-v0.1.md"
+  ],
+  "/content/components-3/amp-megaphone-v0.1.md": [
+    "/content/components-3/amp-megaphone-v0.1.md"
+  ],
+  "/content/components-3/amp-minute-media-player-v0.1.md": [
+    "/content/components-3/amp-minute-media-player-v0.1.md"
+  ],
+  "/content/components-3/amp-mowplayer-v0.1.md": [
+    "/content/components-3/amp-mowplayer-v0.1.md"
+  ],
+  "/content/components-3/amp-mraid-v0.1.md": [
+    "/content/components-3/amp-mraid-v0.1.md"
+  ],
+  "/content/components-3/amp-mustache-v0.2.md": [
+    "/content/components-3/amp-mustache-v0.2.md"
+  ],
+  "/content/components-3/amp-nested-menu-v0.1.md": [
+    "/content/components-3/amp-nested-menu-v0.1.md"
+  ],
+  "/content/components-3/amp-next-page-v0.1.md": [
+    "/content/components-3/amp-next-page-v0.1.md"
+  ],
+  "/content/components-3/amp-next-page-v1.0.md": [
+    "/content/components-3/amp-next-page-v1.0.md"
+  ],
+  "/content/components-3/amp-nexxtv-player-v0.1.md": [
+    "/content/components-3/amp-nexxtv-player-v0.1.md"
+  ],
+  "/content/components-3/amp-o2-player-v0.1.md": [
+    "/content/components-3/amp-o2-player-v0.1.md"
+  ],
+  "/content/components-3/amp-ooyala-player-v0.1.md": [
+    "/content/components-3/amp-ooyala-player-v0.1.md"
+  ],
+  "/content/components-3/amp-orientation-observer-v0.1.md": [
+    "/content/components-3/amp-orientation-observer-v0.1.md"
+  ],
+  "/content/components-3/amp-pan-zoom-v0.1.md": [
+    "/content/components-3/amp-pan-zoom-v0.1.md"
+  ],
+  "/content/components-3/amp-pinterest-v0.1.md": [
+    "/content/components-3/amp-pinterest-v0.1.md"
+  ],
+  "/content/components-3/amp-pixel-v0.1.md": [
+    "/content/components-3/amp-pixel-v0.1.md"
+  ],
+  "/content/components-3/amp-playbuzz-v0.1.md": [
+    "/content/components-3/amp-playbuzz-v0.1.md"
+  ],
+  "/content/components-3/amp-position-observer-v0.1.md": [
+    "/content/components-3/amp-position-observer-v0.1.md"
+  ],
+  "/content/components-3/amp-powr-player-v0.1.md": [
+    "/content/components-3/amp-powr-player-v0.1.md"
+  ],
+  "/content/components-3/amp-reach-player-v0.1.md": [
+    "/content/components-3/amp-reach-player-v0.1.md"
+  ],
+  "/content/components-3/amp-recaptcha-input-v0.1.md": [
+    "/content/components-3/amp-recaptcha-input-v0.1.md"
+  ],
+  "/content/components-3/amp-redbull-player-v0.1.md": [
+    "/content/components-3/amp-redbull-player-v0.1.md"
+  ],
+  "/content/components-3/amp-reddit-v0.1.md": [
+    "/content/components-3/amp-reddit-v0.1.md"
+  ],
+  "/content/components-3/amp-riddle-quiz-v0.1.md": [
+    "/content/components-3/amp-riddle-quiz-v0.1.md"
+  ],
+  "/content/components-3/amp-script-v0.1.md": [
+    "/content/components-3/amp-script-v0.1.md"
+  ],
+  "/content/components-3/amp-selector-v0.1.md": [
+    "/content/components-3/amp-selector-v0.1.md"
+  ],
+  "/content/components-3/amp-sidebar-v0.1.md": [
+    "/content/components-3/amp-sidebar-v0.1.md"
+  ],
+  "/content/components-3/amp-skimlinks-v0.1.md": [
+    "/content/components-3/amp-skimlinks-v0.1.md"
+  ],
+  "/content/components-3/amp-smartlinks-v0.1.md": [
+    "/content/components-3/amp-smartlinks-v0.1.md"
+  ],
+  "/content/components-3/amp-social-share-v0.1.md": [
+    "/content/components-3/amp-social-share-v0.1.md"
+  ],
+  "/content/components-3/amp-soundcloud-v0.1.md": [
+    "/content/components-3/amp-soundcloud-v0.1.md"
+  ],
+  "/content/components-3/amp-springboard-player-v0.1.md": [
+    "/content/components-3/amp-springboard-player-v0.1.md"
+  ],
+  "/content/components-3/amp-sticky-ad-v1.0.md": [
+    "/content/components-3/amp-sticky-ad-v1.0.md"
+  ],
+  "/content/components-3/amp-story-auto-ads-v0.1.md": [
+    "/content/components-3/amp-story-auto-ads-v0.1.md"
+  ],
+  "/content/components-3/amp-story-bookend-v1.0.md": [
+    "/content/components-3/amp-story-bookend-v1.0.md"
+  ],
+  "/content/components-3/amp-story-cta-layer-v1.0.md": [
+    "/content/components-3/amp-story-cta-layer-v1.0.md"
+  ],
+  "/content/components-3/amp-story-grid-layer-v1.0.md": [
+    "/content/components-3/amp-story-grid-layer-v1.0.md"
+  ],
+  "/content/components-3/amp-story-page-attachment-v1.0.md": [
+    "/content/components-3/amp-story-page-attachment-v1.0.md"
+  ],
+  "/content/components-3/amp-story-page-v1.0.md": [
+    "/content/components-3/amp-story-page-v1.0.md"
+  ],
+  "/content/components-3/amp-story-v1.0.md": [
+    "/content/components-3/amp-story-v1.0.md"
+  ],
+  "/content/components-3/amp-subscriptions-google-v0.1.md": [
+    "/content/components-3/amp-subscriptions-google-v0.1.md"
+  ],
+  "/content/components-3/amp-subscriptions-v0.1.md": [
+    "/content/components-3/amp-subscriptions-v0.1.md"
+  ],
+  "/content/components-3/amp-timeago-v0.1.md": [
+    "/content/components-3/amp-timeago-v0.1.md"
+  ],
+  "/content/components-3/amp-truncate-text-v0.1.md": [
+    "/content/components-3/amp-truncate-text-v0.1.md"
+  ],
+  "/content/components-3/amp-twitter-v0.1.md": [
+    "/content/components-3/amp-twitter-v0.1.md"
+  ],
+  "/content/components-3/amp-user-notification-v0.1.md": [
+    "/content/components-3/amp-user-notification-v0.1.md"
+  ],
+  "/content/components-3/amp-video-docking-v0.1.md": [
+    "/content/components-3/amp-video-docking-v0.1.md"
+  ],
+  "/content/components-3/amp-video-iframe-v0.1.md": [
+    "/content/components-3/amp-video-iframe-v0.1.md"
+  ],
+  "/content/components-3/amp-video-v0.1.md": [
+    "/content/components-3/amp-video-v0.1.md"
+  ],
+  "/content/components-3/amp-vimeo-v0.1.md": [
+    "/content/components-3/amp-vimeo-v0.1.md"
+  ],
+  "/content/components-3/amp-vine-v0.1.md": [
+    "/content/components-3/amp-vine-v0.1.md"
+  ],
+  "/content/components-3/amp-viqeo-player-v0.1.md": [
+    "/content/components-3/amp-viqeo-player-v0.1.md"
+  ],
+  "/content/components-3/amp-vk-v0.1.md": [
+    "/content/components-3/amp-vk-v0.1.md"
+  ],
+  "/content/components-3/amp-web-push-v0.1.md": [
+    "/content/components-3/amp-web-push-v0.1.md"
+  ],
+  "/content/components-3/amp-wistia-player-v0.1.md": [
+    "/content/components-3/amp-wistia-player-v0.1.md"
+  ],
+  "/content/components-3/amp-yotpo-v0.1.md": [
+    "/content/components-3/amp-yotpo-v0.1.md"
+  ],
+  "/content/components-3/amp-youtube-v0.1.md": [
+    "/content/components-3/amp-youtube-v0.1.md"
+  ],
+  "/content/components-4/amp-3d-gltf-v0.1.md": [
+    "/content/components-4/amp-3d-gltf-v0.1.md"
+  ],
+  "/content/components-4/amp-3q-player-v0.1.md": [
+    "/content/components-4/amp-3q-player-v0.1.md"
+  ],
+  "/content/components-4/amp-access-laterpay-v0.2.md": [
+    "/content/components-4/amp-access-laterpay-v0.2.md"
+  ],
+  "/content/components-4/amp-access-poool-v0.1.md": [
+    "/content/components-4/amp-access-poool-v0.1.md"
+  ],
+  "/content/components-4/amp-access-scroll-v0.1.md": [
+    "/content/components-4/amp-access-scroll-v0.1.md"
+  ],
+  "/content/components-4/amp-access-v0.1.md": [
+    "/content/components-4/amp-access-v0.1.md"
+  ],
+  "/content/components-4/amp-accordion-v0.1.md": [
+    "/content/components-4/amp-accordion-v0.1.md"
+  ],
+  "/content/components-4/amp-action-macro-v0.1.md": [
+    "/content/components-4/amp-action-macro-v0.1.md"
+  ],
+  "/content/components-4/amp-ad-custom-v0.1.md": [
+    "/content/components-4/amp-ad-custom-v0.1.md"
+  ],
+  "/content/components-4/amp-ad-exit-v0.1.md": [
+    "/content/components-4/amp-ad-exit-v0.1.md"
+  ],
+  "/content/components-4/amp-ad-v0.1.md": [
+    "/content/components-4/amp-ad-v0.1.md"
+  ],
+  "/content/components-4/amp-addthis-v0.1.md": [
+    "/content/components-4/amp-addthis-v0.1.md"
+  ],
+  "/content/components-4/amp-analytics-v0.1.md": [
+    "/content/components-4/amp-analytics-v0.1.md"
+  ],
+  "/content/components-4/amp-anim-v0.1.md": [
+    "/content/components-4/amp-anim-v0.1.md"
+  ],
+  "/content/components-4/amp-animation-v0.1.md": [
+    "/content/components-4/amp-animation-v0.1.md"
+  ],
+  "/content/components-4/amp-apester-media-v0.1.md": [
+    "/content/components-4/amp-apester-media-v0.1.md"
+  ],
+  "/content/components-4/amp-app-banner-v0.1.md": [
+    "/content/components-4/amp-app-banner-v0.1.md"
+  ],
+  "/content/components-4/amp-audio-v0.1.md": [
+    "/content/components-4/amp-audio-v0.1.md"
+  ],
+  "/content/components-4/amp-auto-ads-v0.1.md": [
+    "/content/components-4/amp-auto-ads-v0.1.md"
+  ],
+  "/content/components-4/amp-autocomplete-v0.1.md": [
+    "/content/components-4/amp-autocomplete-v0.1.md"
+  ],
+  "/content/components-4/amp-base-carousel-v0.1.md": [
+    "/content/components-4/amp-base-carousel-v0.1.md"
+  ],
+  "/content/components-4/amp-beopinion-v0.1.md": [
+    "/content/components-4/amp-beopinion-v0.1.md"
+  ],
+  "/content/components-4/amp-bind-v0.1.md": [
+    "/content/components-4/amp-bind-v0.1.md"
+  ],
+  "/content/components-4/amp-bodymovin-animation-v0.1.md": [
+    "/content/components-4/amp-bodymovin-animation-v0.1.md"
+  ],
+  "/content/components-4/amp-brid-player-v0.1.md": [
+    "/content/components-4/amp-brid-player-v0.1.md"
+  ],
+  "/content/components-4/amp-brightcove-v0.1.md": [
+    "/content/components-4/amp-brightcove-v0.1.md"
+  ],
+  "/content/components-4/amp-byside-content-v0.1.md": [
+    "/content/components-4/amp-byside-content-v0.1.md"
+  ],
+  "/content/components-4/amp-call-tracking-v0.1.md": [
+    "/content/components-4/amp-call-tracking-v0.1.md"
+  ],
+  "/content/components-4/amp-carousel-v0.1.md": [
+    "/content/components-4/amp-carousel-v0.1.md"
+  ],
+  "/content/components-4/amp-carousel-v0.2.md": [
+    "/content/components-4/amp-carousel-v0.2.md"
+  ],
+  "/content/components-4/amp-connatix-player-v0.1.md": [
+    "/content/components-4/amp-connatix-player-v0.1.md"
+  ],
+  "/content/components-4/amp-consent-v0.1.md": [
+    "/content/components-4/amp-consent-v0.1.md"
+  ],
+  "/content/components-4/amp-dailymotion-v0.1.md": [
+    "/content/components-4/amp-dailymotion-v0.1.md"
+  ],
+  "/content/components-4/amp-date-countdown-v0.1.md": [
+    "/content/components-4/amp-date-countdown-v0.1.md"
+  ],
+  "/content/components-4/amp-date-display-v0.1.md": [
+    "/content/components-4/amp-date-display-v0.1.md"
+  ],
+  "/content/components-4/amp-date-picker-v0.1.md": [
+    "/content/components-4/amp-date-picker-v0.1.md"
+  ],
+  "/content/components-4/amp-delight-player-v0.1.md": [
+    "/content/components-4/amp-delight-player-v0.1.md"
+  ],
+  "/content/components-4/amp-dynamic-css-classes-v0.1.md": [
+    "/content/components-4/amp-dynamic-css-classes-v0.1.md"
+  ],
+  "/content/components-4/amp-embedly-card-v0.1.md": [
+    "/content/components-4/amp-embedly-card-v0.1.md"
+  ],
+  "/content/components-4/amp-experiment-v1.0.md": [
+    "/content/components-4/amp-experiment-v1.0.md"
+  ],
+  "/content/components-4/amp-facebook-comments-v0.1.md": [
+    "/content/components-4/amp-facebook-comments-v0.1.md"
+  ],
+  "/content/components-4/amp-facebook-like-v0.1.md": [
+    "/content/components-4/amp-facebook-like-v0.1.md"
+  ],
+  "/content/components-4/amp-facebook-page-v0.1.md": [
+    "/content/components-4/amp-facebook-page-v0.1.md"
+  ],
+  "/content/components-4/amp-facebook-v0.1.md": [
+    "/content/components-4/amp-facebook-v0.1.md"
+  ],
+  "/content/components-4/amp-fit-text-v0.1.md": [
+    "/content/components-4/amp-fit-text-v0.1.md"
+  ],
+  "/content/components-4/amp-font-v0.1.md": [
+    "/content/components-4/amp-font-v0.1.md"
+  ],
+  "/content/components-4/amp-form-v0.1.md": [
+    "/content/components-4/amp-form-v0.1.md"
+  ],
+  "/content/components-4/amp-fx-collection-v0.1.md": [
+    "/content/components-4/amp-fx-collection-v0.1.md"
+  ],
+  "/content/components-4/amp-fx-flying-carpet-v0.1.md": [
+    "/content/components-4/amp-fx-flying-carpet-v0.1.md"
+  ],
+  "/content/components-4/amp-geo-v0.1.md": [
+    "/content/components-4/amp-geo-v0.1.md"
+  ],
+  "/content/components-4/amp-gfycat-v0.1.md": [
+    "/content/components-4/amp-gfycat-v0.1.md"
+  ],
+  "/content/components-4/amp-gist-v0.1.md": [
+    "/content/components-4/amp-gist-v0.1.md"
+  ],
+  "/content/components-4/amp-google-document-embed-v0.1.md": [
+    "/content/components-4/amp-google-document-embed-v0.1.md"
+  ],
+  "/content/components-4/amp-hulu-v0.1.md": [
+    "/content/components-4/amp-hulu-v0.1.md"
+  ],
+  "/content/components-4/amp-iframe-v0.1.md": [
+    "/content/components-4/amp-iframe-v0.1.md"
+  ],
+  "/content/components-4/amp-ima-video-v0.1.md": [
+    "/content/components-4/amp-ima-video-v0.1.md"
+  ],
+  "/content/components-4/amp-image-lightbox-v0.1.md": [
+    "/content/components-4/amp-image-lightbox-v0.1.md"
+  ],
+  "/content/components-4/amp-image-slider-v0.1.md": [
+    "/content/components-4/amp-image-slider-v0.1.md"
+  ],
+  "/content/components-4/amp-img-v0.1.md": [
+    "/content/components-4/amp-img-v0.1.md"
+  ],
+  "/content/components-4/amp-imgur-v0.1.md": [
+    "/content/components-4/amp-imgur-v0.1.md"
+  ],
+  "/content/components-4/amp-inline-gallery-v0.1.md": [
+    "/content/components-4/amp-inline-gallery-v0.1.md"
+  ],
+  "/content/components-4/amp-inputmask-v0.1.md": [
+    "/content/components-4/amp-inputmask-v0.1.md"
+  ],
+  "/content/components-4/amp-instagram-v0.1.md": [
+    "/content/components-4/amp-instagram-v0.1.md"
+  ],
+  "/content/components-4/amp-install-serviceworker-v0.1.md": [
+    "/content/components-4/amp-install-serviceworker-v0.1.md"
+  ],
+  "/content/components-4/amp-izlesene-v0.1.md": [
+    "/content/components-4/amp-izlesene-v0.1.md"
+  ],
+  "/content/components-4/amp-jwplayer-v0.1.md": [
+    "/content/components-4/amp-jwplayer-v0.1.md"
+  ],
+  "/content/components-4/amp-kaltura-player-v0.1.md": [
+    "/content/components-4/amp-kaltura-player-v0.1.md"
+  ],
+  "/content/components-4/amp-layout-v0.1.md": [
+    "/content/components-4/amp-layout-v0.1.md"
+  ],
+  "/content/components-4/amp-lightbox-gallery-v0.1.md": [
+    "/content/components-4/amp-lightbox-gallery-v0.1.md"
+  ],
+  "/content/components-4/amp-lightbox-v0.1.md": [
+    "/content/components-4/amp-lightbox-v0.1.md"
+  ],
+  "/content/components-4/amp-link-rewriter-v0.1.md": [
+    "/content/components-4/amp-link-rewriter-v0.1.md"
+  ],
+  "/content/components-4/amp-list-v0.1.md": [
+    "/content/components-4/amp-list-v0.1.md"
+  ],
+  "/content/components-4/amp-live-list-v0.1.md": [
+    "/content/components-4/amp-live-list-v0.1.md"
+  ],
+  "/content/components-4/amp-mathml-v0.1.md": [
+    "/content/components-4/amp-mathml-v0.1.md"
+  ],
+  "/content/components-4/amp-mega-menu-v0.1.md": [
+    "/content/components-4/amp-mega-menu-v0.1.md"
+  ],
+  "/content/components-4/amp-megaphone-v0.1.md": [
+    "/content/components-4/amp-megaphone-v0.1.md"
+  ],
+  "/content/components-4/amp-minute-media-player-v0.1.md": [
+    "/content/components-4/amp-minute-media-player-v0.1.md"
+  ],
+  "/content/components-4/amp-mowplayer-v0.1.md": [
+    "/content/components-4/amp-mowplayer-v0.1.md"
+  ],
+  "/content/components-4/amp-mraid-v0.1.md": [
+    "/content/components-4/amp-mraid-v0.1.md"
+  ],
+  "/content/components-4/amp-mustache-v0.2.md": [
+    "/content/components-4/amp-mustache-v0.2.md"
+  ],
+  "/content/components-4/amp-nested-menu-v0.1.md": [
+    "/content/components-4/amp-nested-menu-v0.1.md"
+  ],
+  "/content/components-4/amp-next-page-v0.1.md": [
+    "/content/components-4/amp-next-page-v0.1.md"
+  ],
+  "/content/components-4/amp-next-page-v1.0.md": [
+    "/content/components-4/amp-next-page-v1.0.md"
+  ],
+  "/content/components-4/amp-nexxtv-player-v0.1.md": [
+    "/content/components-4/amp-nexxtv-player-v0.1.md"
+  ],
+  "/content/components-4/amp-o2-player-v0.1.md": [
+    "/content/components-4/amp-o2-player-v0.1.md"
+  ],
+  "/content/components-4/amp-ooyala-player-v0.1.md": [
+    "/content/components-4/amp-ooyala-player-v0.1.md"
+  ],
+  "/content/components-4/amp-orientation-observer-v0.1.md": [
+    "/content/components-4/amp-orientation-observer-v0.1.md"
+  ],
+  "/content/components-4/amp-pan-zoom-v0.1.md": [
+    "/content/components-4/amp-pan-zoom-v0.1.md"
+  ],
+  "/content/components-4/amp-pinterest-v0.1.md": [
+    "/content/components-4/amp-pinterest-v0.1.md"
+  ],
+  "/content/components-4/amp-pixel-v0.1.md": [
+    "/content/components-4/amp-pixel-v0.1.md"
+  ],
+  "/content/components-4/amp-playbuzz-v0.1.md": [
+    "/content/components-4/amp-playbuzz-v0.1.md"
+  ],
+  "/content/components-4/amp-position-observer-v0.1.md": [
+    "/content/components-4/amp-position-observer-v0.1.md"
+  ],
+  "/content/components-4/amp-powr-player-v0.1.md": [
+    "/content/components-4/amp-powr-player-v0.1.md"
+  ],
+  "/content/components-4/amp-reach-player-v0.1.md": [
+    "/content/components-4/amp-reach-player-v0.1.md"
+  ],
+  "/content/components-4/amp-recaptcha-input-v0.1.md": [
+    "/content/components-4/amp-recaptcha-input-v0.1.md"
+  ],
+  "/content/components-4/amp-redbull-player-v0.1.md": [
+    "/content/components-4/amp-redbull-player-v0.1.md"
+  ],
+  "/content/components-4/amp-reddit-v0.1.md": [
+    "/content/components-4/amp-reddit-v0.1.md"
+  ],
+  "/content/components-4/amp-riddle-quiz-v0.1.md": [
+    "/content/components-4/amp-riddle-quiz-v0.1.md"
+  ],
+  "/content/components-4/amp-script-v0.1.md": [
+    "/content/components-4/amp-script-v0.1.md"
+  ],
+  "/content/components-4/amp-selector-v0.1.md": [
+    "/content/components-4/amp-selector-v0.1.md"
+  ],
+  "/content/components-4/amp-sidebar-v0.1.md": [
+    "/content/components-4/amp-sidebar-v0.1.md"
+  ],
+  "/content/components-4/amp-skimlinks-v0.1.md": [
+    "/content/components-4/amp-skimlinks-v0.1.md"
+  ],
+  "/content/components-4/amp-smartlinks-v0.1.md": [
+    "/content/components-4/amp-smartlinks-v0.1.md"
+  ],
+  "/content/components-4/amp-social-share-v0.1.md": [
+    "/content/components-4/amp-social-share-v0.1.md"
+  ],
+  "/content/components-4/amp-soundcloud-v0.1.md": [
+    "/content/components-4/amp-soundcloud-v0.1.md"
+  ],
+  "/content/components-4/amp-springboard-player-v0.1.md": [
+    "/content/components-4/amp-springboard-player-v0.1.md"
+  ],
+  "/content/components-4/amp-sticky-ad-v1.0.md": [
+    "/content/components-4/amp-sticky-ad-v1.0.md"
+  ],
+  "/content/components-4/amp-story-auto-ads-v0.1.md": [
+    "/content/components-4/amp-story-auto-ads-v0.1.md"
+  ],
+  "/content/components-4/amp-story-bookend-v1.0.md": [
+    "/content/components-4/amp-story-bookend-v1.0.md"
+  ],
+  "/content/components-4/amp-story-cta-layer-v1.0.md": [
+    "/content/components-4/amp-story-cta-layer-v1.0.md"
+  ],
+  "/content/components-4/amp-story-grid-layer-v1.0.md": [
+    "/content/components-4/amp-story-grid-layer-v1.0.md"
+  ],
+  "/content/components-4/amp-story-page-attachment-v1.0.md": [
+    "/content/components-4/amp-story-page-attachment-v1.0.md"
+  ],
+  "/content/components-4/amp-story-page-v1.0.md": [
+    "/content/components-4/amp-story-page-v1.0.md"
+  ],
+  "/content/components-4/amp-story-v1.0.md": [
+    "/content/components-4/amp-story-v1.0.md"
+  ],
+  "/content/components-4/amp-subscriptions-google-v0.1.md": [
+    "/content/components-4/amp-subscriptions-google-v0.1.md"
+  ],
+  "/content/components-4/amp-subscriptions-v0.1.md": [
+    "/content/components-4/amp-subscriptions-v0.1.md"
+  ],
+  "/content/components-4/amp-timeago-v0.1.md": [
+    "/content/components-4/amp-timeago-v0.1.md"
+  ],
+  "/content/components-4/amp-truncate-text-v0.1.md": [
+    "/content/components-4/amp-truncate-text-v0.1.md"
+  ],
+  "/content/components-4/amp-twitter-v0.1.md": [
+    "/content/components-4/amp-twitter-v0.1.md"
+  ],
+  "/content/components-4/amp-user-notification-v0.1.md": [
+    "/content/components-4/amp-user-notification-v0.1.md"
+  ],
+  "/content/components-4/amp-video-docking-v0.1.md": [
+    "/content/components-4/amp-video-docking-v0.1.md"
+  ],
+  "/content/components-4/amp-video-iframe-v0.1.md": [
+    "/content/components-4/amp-video-iframe-v0.1.md"
+  ],
+  "/content/components-4/amp-video-v0.1.md": [
+    "/content/components-4/amp-video-v0.1.md"
+  ],
+  "/content/components-4/amp-vimeo-v0.1.md": [
+    "/content/components-4/amp-vimeo-v0.1.md"
+  ],
+  "/content/components-4/amp-vine-v0.1.md": [
+    "/content/components-4/amp-vine-v0.1.md"
+  ],
+  "/content/components-4/amp-viqeo-player-v0.1.md": [
+    "/content/components-4/amp-viqeo-player-v0.1.md"
+  ],
+  "/content/components-4/amp-vk-v0.1.md": [
+    "/content/components-4/amp-vk-v0.1.md"
+  ],
+  "/content/components-4/amp-web-push-v0.1.md": [
+    "/content/components-4/amp-web-push-v0.1.md"
+  ],
+  "/content/components-4/amp-wistia-player-v0.1.md": [
+    "/content/components-4/amp-wistia-player-v0.1.md"
+  ],
+  "/content/components-4/amp-yotpo-v0.1.md": [
+    "/content/components-4/amp-yotpo-v0.1.md"
+  ],
+  "/content/components-4/amp-youtube-v0.1.md": [
+    "/content/components-4/amp-youtube-v0.1.md"
+  ],
+  "/content/components-5/amp-3d-gltf-v0.1.md": [
+    "/content/components-5/amp-3d-gltf-v0.1.md"
+  ],
+  "/content/components-5/amp-3q-player-v0.1.md": [
+    "/content/components-5/amp-3q-player-v0.1.md"
+  ],
+  "/content/components-5/amp-access-laterpay-v0.2.md": [
+    "/content/components-5/amp-access-laterpay-v0.2.md"
+  ],
+  "/content/components-5/amp-access-poool-v0.1.md": [
+    "/content/components-5/amp-access-poool-v0.1.md"
+  ],
+  "/content/components-5/amp-access-scroll-v0.1.md": [
+    "/content/components-5/amp-access-scroll-v0.1.md"
+  ],
+  "/content/components-5/amp-access-v0.1.md": [
+    "/content/components-5/amp-access-v0.1.md"
+  ],
+  "/content/components-5/amp-accordion-v0.1.md": [
+    "/content/components-5/amp-accordion-v0.1.md"
+  ],
+  "/content/components-5/amp-action-macro-v0.1.md": [
+    "/content/components-5/amp-action-macro-v0.1.md"
+  ],
+  "/content/components-5/amp-ad-custom-v0.1.md": [
+    "/content/components-5/amp-ad-custom-v0.1.md"
+  ],
+  "/content/components-5/amp-ad-exit-v0.1.md": [
+    "/content/components-5/amp-ad-exit-v0.1.md"
+  ],
+  "/content/components-5/amp-ad-v0.1.md": [
+    "/content/components-5/amp-ad-v0.1.md"
+  ],
+  "/content/components-5/amp-addthis-v0.1.md": [
+    "/content/components-5/amp-addthis-v0.1.md"
+  ],
+  "/content/components-5/amp-analytics-v0.1.md": [
+    "/content/components-5/amp-analytics-v0.1.md"
+  ],
+  "/content/components-5/amp-anim-v0.1.md": [
+    "/content/components-5/amp-anim-v0.1.md"
+  ],
+  "/content/components-5/amp-animation-v0.1.md": [
+    "/content/components-5/amp-animation-v0.1.md"
+  ],
+  "/content/components-5/amp-apester-media-v0.1.md": [
+    "/content/components-5/amp-apester-media-v0.1.md"
+  ],
+  "/content/components-5/amp-app-banner-v0.1.md": [
+    "/content/components-5/amp-app-banner-v0.1.md"
+  ],
+  "/content/components-5/amp-audio-v0.1.md": [
+    "/content/components-5/amp-audio-v0.1.md"
+  ],
+  "/content/components-5/amp-auto-ads-v0.1.md": [
+    "/content/components-5/amp-auto-ads-v0.1.md"
+  ],
+  "/content/components-5/amp-autocomplete-v0.1.md": [
+    "/content/components-5/amp-autocomplete-v0.1.md"
+  ],
+  "/content/components-5/amp-base-carousel-v0.1.md": [
+    "/content/components-5/amp-base-carousel-v0.1.md"
+  ],
+  "/content/components-5/amp-beopinion-v0.1.md": [
+    "/content/components-5/amp-beopinion-v0.1.md"
+  ],
+  "/content/components-5/amp-bind-v0.1.md": [
+    "/content/components-5/amp-bind-v0.1.md"
+  ],
+  "/content/components-5/amp-bodymovin-animation-v0.1.md": [
+    "/content/components-5/amp-bodymovin-animation-v0.1.md"
+  ],
+  "/content/components-5/amp-brid-player-v0.1.md": [
+    "/content/components-5/amp-brid-player-v0.1.md"
+  ],
+  "/content/components-5/amp-brightcove-v0.1.md": [
+    "/content/components-5/amp-brightcove-v0.1.md"
+  ],
+  "/content/components-5/amp-byside-content-v0.1.md": [
+    "/content/components-5/amp-byside-content-v0.1.md"
+  ],
+  "/content/components-5/amp-call-tracking-v0.1.md": [
+    "/content/components-5/amp-call-tracking-v0.1.md"
+  ],
+  "/content/components-5/amp-carousel-v0.1.md": [
+    "/content/components-5/amp-carousel-v0.1.md"
+  ],
+  "/content/components-5/amp-carousel-v0.2.md": [
+    "/content/components-5/amp-carousel-v0.2.md"
+  ],
+  "/content/components-5/amp-connatix-player-v0.1.md": [
+    "/content/components-5/amp-connatix-player-v0.1.md"
+  ],
+  "/content/components-5/amp-consent-v0.1.md": [
+    "/content/components-5/amp-consent-v0.1.md"
+  ],
+  "/content/components-5/amp-dailymotion-v0.1.md": [
+    "/content/components-5/amp-dailymotion-v0.1.md"
+  ],
+  "/content/components-5/amp-date-countdown-v0.1.md": [
+    "/content/components-5/amp-date-countdown-v0.1.md"
+  ],
+  "/content/components-5/amp-date-display-v0.1.md": [
+    "/content/components-5/amp-date-display-v0.1.md"
+  ],
+  "/content/components-5/amp-date-picker-v0.1.md": [
+    "/content/components-5/amp-date-picker-v0.1.md"
+  ],
+  "/content/components-5/amp-delight-player-v0.1.md": [
+    "/content/components-5/amp-delight-player-v0.1.md"
+  ],
+  "/content/components-5/amp-dynamic-css-classes-v0.1.md": [
+    "/content/components-5/amp-dynamic-css-classes-v0.1.md"
+  ],
+  "/content/components-5/amp-embedly-card-v0.1.md": [
+    "/content/components-5/amp-embedly-card-v0.1.md"
+  ],
+  "/content/components-5/amp-experiment-v1.0.md": [
+    "/content/components-5/amp-experiment-v1.0.md"
+  ],
+  "/content/components-5/amp-facebook-comments-v0.1.md": [
+    "/content/components-5/amp-facebook-comments-v0.1.md"
+  ],
+  "/content/components-5/amp-facebook-like-v0.1.md": [
+    "/content/components-5/amp-facebook-like-v0.1.md"
+  ],
+  "/content/components-5/amp-facebook-page-v0.1.md": [
+    "/content/components-5/amp-facebook-page-v0.1.md"
+  ],
+  "/content/components-5/amp-facebook-v0.1.md": [
+    "/content/components-5/amp-facebook-v0.1.md"
+  ],
+  "/content/components-5/amp-fit-text-v0.1.md": [
+    "/content/components-5/amp-fit-text-v0.1.md"
+  ],
+  "/content/components-5/amp-font-v0.1.md": [
+    "/content/components-5/amp-font-v0.1.md"
+  ],
+  "/content/components-5/amp-form-v0.1.md": [
+    "/content/components-5/amp-form-v0.1.md"
+  ],
+  "/content/components-5/amp-fx-collection-v0.1.md": [
+    "/content/components-5/amp-fx-collection-v0.1.md"
+  ],
+  "/content/components-5/amp-fx-flying-carpet-v0.1.md": [
+    "/content/components-5/amp-fx-flying-carpet-v0.1.md"
+  ],
+  "/content/components-5/amp-geo-v0.1.md": [
+    "/content/components-5/amp-geo-v0.1.md"
+  ],
+  "/content/components-5/amp-gfycat-v0.1.md": [
+    "/content/components-5/amp-gfycat-v0.1.md"
+  ],
+  "/content/components-5/amp-gist-v0.1.md": [
+    "/content/components-5/amp-gist-v0.1.md"
+  ],
+  "/content/components-5/amp-google-document-embed-v0.1.md": [
+    "/content/components-5/amp-google-document-embed-v0.1.md"
+  ],
+  "/content/components-5/amp-hulu-v0.1.md": [
+    "/content/components-5/amp-hulu-v0.1.md"
+  ],
+  "/content/components-5/amp-iframe-v0.1.md": [
+    "/content/components-5/amp-iframe-v0.1.md"
+  ],
+  "/content/components-5/amp-ima-video-v0.1.md": [
+    "/content/components-5/amp-ima-video-v0.1.md"
+  ],
+  "/content/components-5/amp-image-lightbox-v0.1.md": [
+    "/content/components-5/amp-image-lightbox-v0.1.md"
+  ],
+  "/content/components-5/amp-image-slider-v0.1.md": [
+    "/content/components-5/amp-image-slider-v0.1.md"
+  ],
+  "/content/components-5/amp-img-v0.1.md": [
+    "/content/components-5/amp-img-v0.1.md"
+  ],
+  "/content/components-5/amp-imgur-v0.1.md": [
+    "/content/components-5/amp-imgur-v0.1.md"
+  ],
+  "/content/components-5/amp-inline-gallery-v0.1.md": [
+    "/content/components-5/amp-inline-gallery-v0.1.md"
+  ],
+  "/content/components-5/amp-inputmask-v0.1.md": [
+    "/content/components-5/amp-inputmask-v0.1.md"
+  ],
+  "/content/components-5/amp-instagram-v0.1.md": [
+    "/content/components-5/amp-instagram-v0.1.md"
+  ],
+  "/content/components-5/amp-install-serviceworker-v0.1.md": [
+    "/content/components-5/amp-install-serviceworker-v0.1.md"
+  ],
+  "/content/components-5/amp-izlesene-v0.1.md": [
+    "/content/components-5/amp-izlesene-v0.1.md"
+  ],
+  "/content/components-5/amp-jwplayer-v0.1.md": [
+    "/content/components-5/amp-jwplayer-v0.1.md"
+  ],
+  "/content/components-5/amp-kaltura-player-v0.1.md": [
+    "/content/components-5/amp-kaltura-player-v0.1.md"
+  ],
+  "/content/components-5/amp-layout-v0.1.md": [
+    "/content/components-5/amp-layout-v0.1.md"
+  ],
+  "/content/components-5/amp-lightbox-gallery-v0.1.md": [
+    "/content/components-5/amp-lightbox-gallery-v0.1.md"
+  ],
+  "/content/components-5/amp-lightbox-v0.1.md": [
+    "/content/components-5/amp-lightbox-v0.1.md"
+  ],
+  "/content/components-5/amp-link-rewriter-v0.1.md": [
+    "/content/components-5/amp-link-rewriter-v0.1.md"
+  ],
+  "/content/components-5/amp-list-v0.1.md": [
+    "/content/components-5/amp-list-v0.1.md"
+  ],
+  "/content/components-5/amp-live-list-v0.1.md": [
+    "/content/components-5/amp-live-list-v0.1.md"
+  ],
+  "/content/components-5/amp-mathml-v0.1.md": [
+    "/content/components-5/amp-mathml-v0.1.md"
+  ],
+  "/content/components-5/amp-mega-menu-v0.1.md": [
+    "/content/components-5/amp-mega-menu-v0.1.md"
+  ],
+  "/content/components-5/amp-megaphone-v0.1.md": [
+    "/content/components-5/amp-megaphone-v0.1.md"
+  ],
+  "/content/components-5/amp-minute-media-player-v0.1.md": [
+    "/content/components-5/amp-minute-media-player-v0.1.md"
+  ],
+  "/content/components-5/amp-mowplayer-v0.1.md": [
+    "/content/components-5/amp-mowplayer-v0.1.md"
+  ],
+  "/content/components-5/amp-mraid-v0.1.md": [
+    "/content/components-5/amp-mraid-v0.1.md"
+  ],
+  "/content/components-5/amp-mustache-v0.2.md": [
+    "/content/components-5/amp-mustache-v0.2.md"
+  ],
+  "/content/components-5/amp-nested-menu-v0.1.md": [
+    "/content/components-5/amp-nested-menu-v0.1.md"
+  ],
+  "/content/components-5/amp-next-page-v0.1.md": [
+    "/content/components-5/amp-next-page-v0.1.md"
+  ],
+  "/content/components-5/amp-next-page-v1.0.md": [
+    "/content/components-5/amp-next-page-v1.0.md"
+  ],
+  "/content/components-5/amp-nexxtv-player-v0.1.md": [
+    "/content/components-5/amp-nexxtv-player-v0.1.md"
+  ],
+  "/content/components-5/amp-o2-player-v0.1.md": [
+    "/content/components-5/amp-o2-player-v0.1.md"
+  ],
+  "/content/components-5/amp-ooyala-player-v0.1.md": [
+    "/content/components-5/amp-ooyala-player-v0.1.md"
+  ],
+  "/content/components-5/amp-orientation-observer-v0.1.md": [
+    "/content/components-5/amp-orientation-observer-v0.1.md"
+  ],
+  "/content/components-5/amp-pan-zoom-v0.1.md": [
+    "/content/components-5/amp-pan-zoom-v0.1.md"
+  ],
+  "/content/components-5/amp-pinterest-v0.1.md": [
+    "/content/components-5/amp-pinterest-v0.1.md"
+  ],
+  "/content/components-5/amp-pixel-v0.1.md": [
+    "/content/components-5/amp-pixel-v0.1.md"
+  ],
+  "/content/components-5/amp-playbuzz-v0.1.md": [
+    "/content/components-5/amp-playbuzz-v0.1.md"
+  ],
+  "/content/components-5/amp-position-observer-v0.1.md": [
+    "/content/components-5/amp-position-observer-v0.1.md"
+  ],
+  "/content/components-5/amp-powr-player-v0.1.md": [
+    "/content/components-5/amp-powr-player-v0.1.md"
+  ],
+  "/content/components-5/amp-reach-player-v0.1.md": [
+    "/content/components-5/amp-reach-player-v0.1.md"
+  ],
+  "/content/components-5/amp-recaptcha-input-v0.1.md": [
+    "/content/components-5/amp-recaptcha-input-v0.1.md"
+  ],
+  "/content/components-5/amp-redbull-player-v0.1.md": [
+    "/content/components-5/amp-redbull-player-v0.1.md"
+  ],
+  "/content/components-5/amp-reddit-v0.1.md": [
+    "/content/components-5/amp-reddit-v0.1.md"
+  ],
+  "/content/components-5/amp-riddle-quiz-v0.1.md": [
+    "/content/components-5/amp-riddle-quiz-v0.1.md"
+  ],
+  "/content/components-5/amp-script-v0.1.md": [
+    "/content/components-5/amp-script-v0.1.md"
+  ],
+  "/content/components-5/amp-selector-v0.1.md": [
+    "/content/components-5/amp-selector-v0.1.md"
+  ],
+  "/content/components-5/amp-sidebar-v0.1.md": [
+    "/content/components-5/amp-sidebar-v0.1.md"
+  ],
+  "/content/components-5/amp-skimlinks-v0.1.md": [
+    "/content/components-5/amp-skimlinks-v0.1.md"
+  ],
+  "/content/components-5/amp-smartlinks-v0.1.md": [
+    "/content/components-5/amp-smartlinks-v0.1.md"
+  ],
+  "/content/components-5/amp-social-share-v0.1.md": [
+    "/content/components-5/amp-social-share-v0.1.md"
+  ],
+  "/content/components-5/amp-soundcloud-v0.1.md": [
+    "/content/components-5/amp-soundcloud-v0.1.md"
+  ],
+  "/content/components-5/amp-springboard-player-v0.1.md": [
+    "/content/components-5/amp-springboard-player-v0.1.md"
+  ],
+  "/content/components-5/amp-sticky-ad-v1.0.md": [
+    "/content/components-5/amp-sticky-ad-v1.0.md"
+  ],
+  "/content/components-5/amp-story-auto-ads-v0.1.md": [
+    "/content/components-5/amp-story-auto-ads-v0.1.md"
+  ],
+  "/content/components-5/amp-story-bookend-v1.0.md": [
+    "/content/components-5/amp-story-bookend-v1.0.md"
+  ],
+  "/content/components-5/amp-story-cta-layer-v1.0.md": [
+    "/content/components-5/amp-story-cta-layer-v1.0.md"
+  ],
+  "/content/components-5/amp-story-grid-layer-v1.0.md": [
+    "/content/components-5/amp-story-grid-layer-v1.0.md"
+  ],
+  "/content/components-5/amp-story-page-attachment-v1.0.md": [
+    "/content/components-5/amp-story-page-attachment-v1.0.md"
+  ],
+  "/content/components-5/amp-story-page-v1.0.md": [
+    "/content/components-5/amp-story-page-v1.0.md"
+  ],
+  "/content/components-5/amp-story-v1.0.md": [
+    "/content/components-5/amp-story-v1.0.md"
+  ],
+  "/content/components-5/amp-subscriptions-google-v0.1.md": [
+    "/content/components-5/amp-subscriptions-google-v0.1.md"
+  ],
+  "/content/components-5/amp-subscriptions-v0.1.md": [
+    "/content/components-5/amp-subscriptions-v0.1.md"
+  ],
+  "/content/components-5/amp-timeago-v0.1.md": [
+    "/content/components-5/amp-timeago-v0.1.md"
+  ],
+  "/content/components-5/amp-truncate-text-v0.1.md": [
+    "/content/components-5/amp-truncate-text-v0.1.md"
+  ],
+  "/content/components-5/amp-twitter-v0.1.md": [
+    "/content/components-5/amp-twitter-v0.1.md"
+  ],
+  "/content/components-5/amp-user-notification-v0.1.md": [
+    "/content/components-5/amp-user-notification-v0.1.md"
+  ],
+  "/content/components-5/amp-video-docking-v0.1.md": [
+    "/content/components-5/amp-video-docking-v0.1.md"
+  ],
+  "/content/components-5/amp-video-iframe-v0.1.md": [
+    "/content/components-5/amp-video-iframe-v0.1.md"
+  ],
+  "/content/components-5/amp-video-v0.1.md": [
+    "/content/components-5/amp-video-v0.1.md"
+  ],
+  "/content/components-5/amp-vimeo-v0.1.md": [
+    "/content/components-5/amp-vimeo-v0.1.md"
+  ],
+  "/content/components-5/amp-vine-v0.1.md": [
+    "/content/components-5/amp-vine-v0.1.md"
+  ],
+  "/content/components-5/amp-viqeo-player-v0.1.md": [
+    "/content/components-5/amp-viqeo-player-v0.1.md"
+  ],
+  "/content/components-5/amp-vk-v0.1.md": [
+    "/content/components-5/amp-vk-v0.1.md"
+  ],
+  "/content/components-5/amp-web-push-v0.1.md": [
+    "/content/components-5/amp-web-push-v0.1.md"
+  ],
+  "/content/components-5/amp-wistia-player-v0.1.md": [
+    "/content/components-5/amp-wistia-player-v0.1.md"
+  ],
+  "/content/components-5/amp-yotpo-v0.1.md": [
+    "/content/components-5/amp-yotpo-v0.1.md"
+  ],
+  "/content/components-5/amp-youtube-v0.1.md": [
+    "/content/components-5/amp-youtube-v0.1.md"
+  ]
+}
